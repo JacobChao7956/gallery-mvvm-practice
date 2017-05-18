@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MvvmGallery</string>
+    <string-array name="image_names">
+        <!--木之本櫻-->
+        <item>Sakura</item>
+        <!--碧琪公主-->
+        <item>Pitch</item>
+        <!--賢狼赫蘿-->
+        <item>Horo</item>
+        <!--江之島盾子-->
+        <item>EnoshimaJunko</item>
+        <!--黑魔導女孩-->
+        <item>BlackMagicianGirl</item>
+    </string-array>
+</resources>
